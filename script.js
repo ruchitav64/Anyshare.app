@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBPlnG8AQWAQS5O0TFFnIHyw2DfiNqAHfM",
+  apiKey: "AIzaSyBPlnG8AQWAQS5O0TFFnIHyw2DfiNq****",
   authDomain: "image-share-4446c.firebaseapp.com",
   projectId: "image-share-4446c",
   storageBucket: "image-share-4446c.appspot.com",
